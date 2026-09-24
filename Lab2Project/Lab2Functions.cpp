@@ -1,8 +1,4 @@
-// Safaa Asif
-// 30274206
 // Lab2Functions.cpp
-// Created on 09-23-2026
-
 
 #include "Lab2Functions.h"
 
