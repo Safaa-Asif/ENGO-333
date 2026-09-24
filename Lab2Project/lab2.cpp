@@ -1,13 +1,5 @@
-//Lab2.cpp
-//ENGO 333 Lab 2 main program file
-//Instructor: Mohamed Elsheikh
-//21Sept2026
-//License: Students in ENGO 333 are free to copy and modify this file for the purposes of their course work.
-
-// Safaa Asif
-// 30274206
 // lab2.cpp
-// Created on 09-23-2026
+
 
 #include "Lab2Functions.h"
 
