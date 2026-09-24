@@ -1,7 +1,4 @@
-// Safaa Asif
-// 30274206
 // Lab2Functions.h
-// Created on 09-23-2026
 
 #ifndef LAB2PROJECT_LAB2FUNCTIONS_H
 #define LAB2PROJECT_LAB2FUNCTIONS_H
